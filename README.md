@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+-----------------------------------------------------
+
+Primeiro instalamos o pacote create-react-app de forma global, por isso o -g:
+npm install -g create-react-app
+
+Depois inicializamos o projeto com:
+create-react-app huntweb
