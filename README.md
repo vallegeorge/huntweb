@@ -74,3 +74,11 @@ npm install -g create-react-app
 
 Depois inicializamos o projeto com:
 create-react-app huntweb
+
+---------------------------------------------------
+Para fazer as requisições da api:
+yarn add axios
+
+-----------------------------------------------------
+BIBLIOTECA PARA FAZER NAVEGAÇÃO:
+yarn add react-router-dom
